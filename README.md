@@ -4,7 +4,7 @@
 
 En una playa famosa por sus olas impredecibles, dos surfistas se entrenan todos los días con entusiasmo: Luna y Toby.
 
-Luna es una atleta incansable, siempre llena de energía, capaz de pasar horas sobre la tabla sin perder el foco. De hecho, al comenzar el día, Luna cuenta con 80 puntos de energía. Cuando descansa, recupera un cuarto de su energía actual.
+Luna es una atleta incansable, siempre llena de energía, capaz de pasar horas sobre la tabla sin perder el foco. De hecho, al comenzar el día, Luna cuenta con 80 puntos de energía. Cuando descansa, recupera 30 puntos de energía.
 
 En cambio, Toby es más relajado: le gusta surfear, pero se cansa rápido y a veces prefiere mirar desde la orilla con una bebida en la mano. Su energía inicial es de 50 puntos de energía. Cuando descansa, recupera 20 de energía.
 
