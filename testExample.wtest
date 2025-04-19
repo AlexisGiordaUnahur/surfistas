@@ -1,0 +1,9 @@
+import surfers
+
+describe "Tests de Surfistas en la Costa Salvaje" {
+
+  test "luna" {
+    assert.equals(100, 100)
+  }
+
+}
